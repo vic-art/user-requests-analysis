@@ -1,0 +1,12 @@
+pandas
+python-dotenv
+uvicorn
+fastapi
+python-multipart
+openai
+torch==2.0.1
+sentence_transformers==2.2.2
+hdbscan==0.8.33
+umap-learn==0.5.4
+nltk==3.8.1
+numpy==1.24.3
